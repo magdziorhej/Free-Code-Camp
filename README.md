@@ -1,1 +1,3 @@
-# CatPhotoApp-FCC
+# Free Code Camp exercises
+## I will upload my exercises from FreeCodeCamp
+stay tuned...
